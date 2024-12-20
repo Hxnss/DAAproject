@@ -2,4 +2,5 @@ streamlit
 matplotlib
 folium
 folium_static
-pip install --upgrade pip
+streamlit==1.41.1
+pip==24.3.1
