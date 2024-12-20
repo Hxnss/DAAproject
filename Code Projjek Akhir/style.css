@@ -1,0 +1,30 @@
+body {
+    background-color: #f4f7fc;
+    font-family: 'Arial', sans-serif;
+}
+.main-title {
+    text-align: left;
+    font-size: 36px;
+    color: #1f77b4;
+    font-weight: bold;
+    margin-bottom: 0px;
+}
+.description {
+    text-align: left;
+    font-size: 18px;
+    color: #555;
+    margin-bottom: 20px;
+}
+.main-title_menuRS {
+    text-align: left;
+    font-size: 40px;
+    color: black;
+    font-weight: bold;
+    margin-bottom: 0px;
+}
+.description_menuRS {
+    text-align: left;
+    font-size: 20px;
+    color: #555;
+    margin-bottom: 20px;
+}
