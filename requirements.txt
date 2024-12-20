@@ -1,3 +1,5 @@
 streamlit
 matplotlib
 folium
+streamlit_folium
+folium_static
