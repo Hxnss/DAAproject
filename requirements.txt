@@ -2,3 +2,4 @@ streamlit
 matplotlib
 folium
 folium_static
+pip install --upgrade pip
